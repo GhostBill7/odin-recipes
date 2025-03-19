@@ -1,0 +1,22 @@
+h1 {
+    font-size: 40px;
+    font-family: Serif, 'Times New Roman';
+}
+
+a {
+    font-size: 20px;
+    font-family: Serif, 'Times New Roman';
+    color: rgb(18, 14, 218);
+}
+
+.burger {
+    background-color: rgb(138, 74, 0);
+}
+
+.pasta {
+    background-color: peachpuff;
+}
+
+.shrimp {
+    background-color: orange;
+}
